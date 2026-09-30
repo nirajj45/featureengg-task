@@ -42,3 +42,4 @@ If `data/titanic.csv` is not present, the notebook downloads the Titanic dataset
 Do not include target-derived Titanic columns such as `alive`, `boat`, or `body` as predictors. They can reveal the outcome and cause target leakage.
 
 The notebook is intentionally written as a reusable baseline rather than a Kaggle competition solution.
+
